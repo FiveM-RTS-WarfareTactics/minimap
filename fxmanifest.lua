@@ -14,4 +14,6 @@ files {
     'stream/squaremap.ytd',
     'stream/minimap.ytd',
     'stream/minimap.gfx',
+    'stream_enhanced/*.ytd',
+    'stream_enhanced/*.gfx',
 }
